@@ -1,0 +1,5 @@
+Jacky  Chan  Academic Affairs  AcademicCoordinator  312  jacky25@gmail.com
+Alice  Smith  Marketing  DigitalMarketingSpecialist  3234  smith3@gmail.com
+Johnson  Bob  Finance  BudgetAnalyst  3434  bob69@gmail.com
+Catherine  Lee  Information Technology  DatabaseAdministrator  5421  leeca@gmail.com
+Serena  Thomas  Student Services  DeanofStudentServices  5432  seth56@gmail.com
